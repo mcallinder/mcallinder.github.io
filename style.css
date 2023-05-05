@@ -1,3 +1,7 @@
+* {
+    font-family: sans-serif;
+}
+
 a.top {
     font-size: large;
 }
@@ -65,6 +69,10 @@ section.outline {
 
 ul {
     margin-left: 130px;
+}
+
+ul.level2 {
+    margin-left: 0;
 }
 
 ul.top {
