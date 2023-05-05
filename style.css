@@ -11,15 +11,15 @@ a.up {
     margin: 0 50px;
 }
 
-div.apa-div {
+div {
     margin-left: 90px;
     width: 800px;
 }
 
-div.tech {
-    margin-left: 90px;
-    width: 800px;
+div.ref {
+    padding-bottom: 20px;
 }
+
 
 h1 {
     margin-left: 50px;
@@ -34,10 +34,6 @@ h2 {
 
 h3 {
     margin-left: 90px;
-}
-
-h3.tech {
-    margin-left: 0;
 }
 
 hr {
