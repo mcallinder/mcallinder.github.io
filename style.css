@@ -2,7 +2,7 @@
     font-family: sans-serif;
 }
 
-a.top {
+a.nav {
     font-size: large;
 }
 
@@ -17,6 +17,7 @@ div {
 }
 
 div.ref {
+    font-size: small;
     padding-bottom: 20px;
 }
 
@@ -36,6 +37,11 @@ h3 {
     margin-left: 90px;
 }
 
+h4 {
+    margin: 0;
+    padding: 0 0 10px 0;
+}
+
 hr {
     border: 0;
     border-top: 1px solid lightgray;
@@ -43,12 +49,12 @@ hr {
     padding: 0;
 }
 
-li.outline {
-    padding-top: 10px;
+li.nav {
+    padding-bottom: 5px;
 }
 
-li.top {
-    padding-bottom: 5px;
+li.outline {
+    padding-top: 10px;
 }
 
 p.h2 {
@@ -71,7 +77,7 @@ ul.level2 {
     margin-left: 0;
 }
 
-ul.top {
+ul.nav {
     list-style: none;
     margin-left: 10px;
 }
